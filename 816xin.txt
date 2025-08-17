@@ -7,7 +7,7 @@
 📢",
 "lives":[
   
-{"name":"卡顿异常点击换源！","type":0,"url":"https://xn--dkw0c.e.nxog.top/m/tv/?ou=欧歌APP","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10}
+{"name":"收货十字好评！免费赠送央卫直播、球赛、儿童等100+款大屏软件！","type":0,"url":"https://xn--dkw0c.e.nxog.top/m/tv/?ou=欧歌APP","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10}
 
 ],
 "sites": [
@@ -161,6 +161,7 @@
 
 //**本接口免费分享给小白测试和学习使用，请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。<请勿相信视频中广告>
 }
+
 
 
 
