@@ -3,8 +3,8 @@
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
 "spider":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;22e320c39159f4eb585fd9b7f8891b56",
 "warningText":"！提示:
-📢卡顿异常点击换源 
-📢无法打开联系售后",
+📢收货十字好评赠送央卫直播、球赛、儿童等100+款大屏软件！
+📢",
 "lives":[
   
 {"name":"卡顿异常点击换源！","type":0,"url":"https://xn--dkw0c.e.nxog.top/m/tv/?ou=欧歌APP","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10}
@@ -161,3 +161,4 @@
 
 //**本接口免费分享给小白测试和学习使用，请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。<请勿相信视频中广告>
 }
+
